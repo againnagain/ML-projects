@@ -18,4 +18,4 @@
 
 OpenCV, TensorFlow/Keras (CNN), Python.
 
-[Подробнее](./parking-spot-detection)
+[Подробнее](./Parking-spot-detection)
