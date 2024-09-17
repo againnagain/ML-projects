@@ -19,3 +19,20 @@
 OpenCV, TensorFlow/Keras (CNN), Python.
 
 [Подробнее](./Parking-spot-detection)
+
+---
+
+### Movie recommendation system (*in process*)
+**Задача:**
+
+Разработать систему рекомендаций фильмов.
+
+**Цели:** 
+1. Научится работать с библиотекой pythorch.
+2. Научится применять на практике модели classic ML.
+
+**Технологии:**
+
+KNN HNSW, tiplet loss, MLP, Matrix factorization, Python.
+
+[Подробнее](./Movie-RecSys)
