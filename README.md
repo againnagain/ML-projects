@@ -1,8 +1,28 @@
 # ML-projects
 Этот репозиторий содержит мои проекты в области машинного обучения и анализа данных. Проекты были разработаны с целью углубления моих знаний в ML/DL, и их применения в реальных задачах.
 ## Содержание
-1. [Parking Spot Detection](#parking-spot-detection)
-2. [Movie RecSys](#movie-recsys)
+1. [NLP YouTube comment likes prediction](#NLP-YouTube-comments)
+2. [Parking Spot Detection](#parking-spot-detection)
+3. [Movie RecSys](#movie-recsys)
+
+---
+
+### NLP YouTube comment likes prediction
+**Задача:**
+
+Разработать программу, которая будет предсказывать количество лайков у комментария на YouTube.
+
+**Цели:** 
+1. Научится работать с NLP.
+2. Поработать с API. (в проекте используется для сбора данных)
+3. Закрепить навыки разработки ML-моделей на всех этапах.
+
+**Технологии:**
+
+*to be stated*
+
+[Подробнее](./NLP-YouTube-comment)
+
 ---
 
 ### Parking Spot Detection
