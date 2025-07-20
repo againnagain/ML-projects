@@ -21,7 +21,7 @@
 
 *to be stated*
 
-[Подробнее](./NLP-YouTube-comment)
+[Подробнее](./NLP-YouTube-comments)
 
 ---
 
